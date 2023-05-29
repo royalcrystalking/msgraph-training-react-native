@@ -30,7 +30,7 @@
   "devDependencies": {
     "@babel/core": "^7.21.5",
     "@babel/preset-env": "^7.21.4",
-    "@babel/runtime": "^7.21.0",
+    "@babel/runtime": "^7.22.3",
     "@microsoft/microsoft-graph-types": "^2.30.0",
     "@react-native-community/eslint-config": "^3.0.0",
     "@tsconfig/react-native": "^2.0.2",
